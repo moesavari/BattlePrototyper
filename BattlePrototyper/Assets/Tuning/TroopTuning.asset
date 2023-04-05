@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c0af077d682dc849affe2474da5b2b3, type: 3}
+  m_Name: TroopTuning
+  m_EditorClassIdentifier: 
+  troopList:
+  - {fileID: 443803524067706539, guid: 8b686faf86b3b1c4eb315b8d54f394b6, type: 3}
+  - {fileID: 443803524067706539, guid: 83dd6967575c9cf48ada75ffcc4d9f9f, type: 3}
+  - {fileID: 443803524067706539, guid: 0c14233cb1fac9a44ae9471e1c259009, type: 3}
+  - {fileID: 443803524067706539, guid: 79097485205a47b47b57a70bd0d82db6, type: 3}
+  - {fileID: 443803524067706539, guid: aa94516af0d5651459b774e8ea54c34a, type: 3}
